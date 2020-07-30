@@ -1,2 +1,2 @@
-# 7ARagon7.github.io
+# 7Aragon7.github.io
 git hub page
